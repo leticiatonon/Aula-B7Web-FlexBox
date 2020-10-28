@@ -103,15 +103,15 @@ nav .active a, nav a:hover {
 }
 
 .banner1{ 
-    background-color: #39aae1;
+    background-color: #4cbef5;
 }
 
 .banner2 {
-    background-color: #0079c7;
+    background-color: #0368a8;
 }
 
 .banner3 {
-    background-color: #2b4c99;
+    background-color: #37569e;
 }
 
 .banner_title {
@@ -169,7 +169,7 @@ article .news_data {
 }
 
 article .news_posted_at {
-    background-color: #2b4c99;
+    background-color: #243f80;
     color: #ffffff;
     font-size: 12px;
     padding: 10px;
@@ -177,7 +177,7 @@ article .news_posted_at {
 }
 
 article .news_comments {
-    background-color: #39aae1;
+    background-color: #1597d6;
     color: #ffffff;
     font-size: 12px;
     padding: 10px;
